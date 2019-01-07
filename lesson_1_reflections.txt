@@ -17,4 +17,4 @@ Q6 - How might using version control make you more confident to make changes tha
 I can go back to an earlier commit anytime something is not working as intended any longer. 
 
 Q7 - Now that you have your workspace set up, what do you want to try using Git for?
-Data Scientist Udacity Nanodegree, potentially some data viz stuff
+Data Scientist Udacity Nanodegree, potentially some data viz stuff 
