@@ -1,1 +1,2 @@
-bla bla placeholder
+Q1 - When would you want to use a remote repository rather than keeping all your work local?
+If I wanted to cooperate with other people, use multiple devices, keep my codebase safe or just brag with my awesome coding skills...
